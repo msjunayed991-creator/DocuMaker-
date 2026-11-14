@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DocuMaker</string>
+    <string name="tagline">Offline Studio for PDFs &amp; Scans</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_files">Files</string>
+    <string name="nav_create">Create</string>
+    <string name="nav_tools">Tools</string>
+    <string name="nav_settings">Settings</string>
+    <string name="privacy_badge">100% On-Device • Offline</string>
+</resources>

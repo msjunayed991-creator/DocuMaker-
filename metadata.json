@@ -1,0 +1,6 @@
+{
+  "name": "DocuMaker",
+  "description": "Offline native Android PDF Maker, Document Scanner, Image-to-PDF Converter, PDF Reader, and PDF Toolkit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
